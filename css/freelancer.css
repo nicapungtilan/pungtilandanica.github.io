@@ -129,7 +129,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #18BC9C;
+  color: #ff66ff;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -144,7 +144,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #18BC9C;
+  background: #ff66ff;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -154,9 +154,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #18BC9C;
+  background-color: #ff33ff;
   color: white;
-  border-color: #18BC9C;
+  border-color: #ff66ff;
 }
 @media (min-width: 768px) {
   .navbar-custom {
